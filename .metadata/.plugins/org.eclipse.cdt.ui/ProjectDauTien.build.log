@@ -1,0 +1,10 @@
+08:46:05 **** Incremental Build of configuration Debug for project ProjectDauTien ****
+make -j22 all 
+arm-none-eabi-size  ProjectDauTien.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15272	      8	   6264	  21544	   5428	ProjectDauTien.elf
+Finished building: default.size.stdout
+ 
+
+08:46:05 Build Finished. 0 errors, 0 warnings. (took 357ms)
+
